@@ -1,35 +1,30 @@
-# Hi there, I'm Oguz 👋 
+<h1 align="center">Hi there 👋, I'm Oguz</h1>
+<h3 align="center">I'm a Student in Yıldız Technical University, Control and Automation Engineering!!</h3>
 
-## I'm a Student in Yıldız Technical University, Control and Automation Engineering!!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzoguzzz" alt="oguzoguzzz" /></a> </p>
 
-- 🌱 I’m currently learning everything 🤣
-- 👀 I’m interested in C++ and JavaScript
-- 🥅 2022 Goals: Learn more about SQL
-- ⚡ I love to draw , play guitar and basketball
-- 😻 I just do NFT for hobby. Check out :**https://opensea.io/Oguzooo**
+- 😻 I just do NFT for hobby. Check out **https://opensea.io/Oguzooo**
 
-- 📫 E-mail= **oguzkaan41487@gmail.com**
-- 📫 Discord = **maNga#6998**
+- 🌱 I’m currently learning **everything.**
 
-### Connect with me:
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/oguzoguzo)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/oguzoguzo)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/oguz__kaan41)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/oguz__kaan41)
+- 🥅 2022 Goals: Learn more about **SQL, JavaScript**
 
-### **Languages and Tools:**
+- 📫 Discord : **maNga#6998**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en/)
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/nesinsenl)
-[<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" />](https://www.python.org/)
+- ⚡ I love to [draw , play guitar and basketball](draw , play guitar and basketball)
 
+- 👀 I’m interested in **C++ and JavaScript**
 
-<br />
-<br />
+- 📫 How to reach me **oguzkaan41487@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/oguzoguzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzoguzo" height="30" width="40" /></a>
+<a href="https://instagram.com/oguz__kaan41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oguz__kaan41/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/oguzhan746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oguzhan746" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzoguzzz&show_icons=true&locale=en" alt="oguzoguzzz" /></p>
