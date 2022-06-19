@@ -34,6 +34,6 @@
 ---
 
 </details>
-[instagram]: https://www.instagram.com/oguz__kaan41
-[linkedin]: www.linkedin.com/in/oguzoguzo
+[instagram](src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png"): https://www.instagram.com/oguz__kaan41
+[linkedin](src="https://cdn-icons-png.flaticon.com/512/174/174857.png"): www.linkedin.com/in/oguzoguzo
 
