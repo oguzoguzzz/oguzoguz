@@ -9,6 +9,7 @@
 - 😻 I just do NFT for hobby. Check out :**https://opensea.io/Oguzooo**
 
 - 📫 E-mail= **oguzkaan41487@gmail.com**
+- 📫 Discord = **maNga#6998**
 
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/oguzoguzo)
