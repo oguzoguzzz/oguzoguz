@@ -6,7 +6,7 @@
 - 👀 I’m interested in C++ and JavaScript
 - 🥅 2022 Goals: Learn more about SQL
 - ⚡ I love to draw , play guitar and basketball
-- 😻 I just do NFT for hobby. Check out :https://opensea.io/Oguzooo
+- 😻 I just do NFT for hobby. Check out :**https://opensea.io/Oguzooo**
 
 - 📫 E-mail= **oguzkaan41487@gmail.com**
 
