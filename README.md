@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **everything.**
 
-- 🥅 2022 Goals: Learn more about **SQL, JavaScript**
+- 🥅 2022 Goals: Learn more about **SQL, Java**
 
 - 📫 Discord : **maNga#6998**
 
 - ⚡ I love to [draw , play guitar and basketball](draw , play guitar and basketball)
 
-- 👀 I’m interested in **C++ and JavaScript**
+- 👀 I’m interested in **C++ and Java**
 
 - 📫 How to reach me **oguzkaan41487@gmail.com**
 
